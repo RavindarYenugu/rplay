@@ -1,4 +1,1 @@
-1>2
-1 > c(0, 1, 2)
-
-
+plot(mpg ~ wt, data = mtcars, col=2)
